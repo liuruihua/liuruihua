@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liuruihua
+- 👋 Hi, I’m @believer
 - 👀 I’m interested in swimming and photographing
 - 🌱 I’m currently learning CPA course
 - 💞️ I’m looking to collaborate on database analysis.
